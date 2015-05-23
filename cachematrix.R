@@ -1,4 +1,4 @@
-## Caching the inverse of a matrix
+## Caching the inverse of a square matrix
 
 ## Creates a special matrix that can cache its inverse
 
