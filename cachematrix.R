@@ -1,4 +1,4 @@
-## Caching the inverse of a matrix
+## Caching the inverse of a square matrix
 
 ## Creates a special matrix that can cache its inverse
 
@@ -15,7 +15,6 @@ makeCacheMatrix <- function(x = matrix()) {
 	setinverse=setinverse, 
 	getinverse=getinverse)
 }
-
 
 ## Calculates the inverse of the special matrix created with the above function
 
